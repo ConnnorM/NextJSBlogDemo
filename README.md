@@ -1,2 +1,1 @@
-# NextJSBlogDemo
-A demo of using NextJS to make a blog website
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
